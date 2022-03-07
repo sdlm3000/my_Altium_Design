@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\ADATA\all_work\my_ad\jz_work0.5\jz_dlt0.5.PcbDoc
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=3.3V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=5V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=POWER|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

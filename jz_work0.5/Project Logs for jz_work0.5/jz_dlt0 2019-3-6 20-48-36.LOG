@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=con Pin=P1-33
+Removed Pin From Net: NetName=con Pin=P1-34
+Added Pin To Net: NetName=con Pin=P1-25
+Added Pin To Net: NetName=con Pin=P1-26
+Added Room: Name=假肢工作电路

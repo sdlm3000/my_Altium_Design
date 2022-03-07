@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC6_1 Pin=P1-29
+Added Pin To Net: NetName=NetC6_1 Pin=P1-30
+Change Net Name : Old Net Name=NetC6_1 New Net Name=con1
+Added Room: Name=假肢工作电路

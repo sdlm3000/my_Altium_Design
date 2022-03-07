@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\ADATA\all_work\my_ad\jz_work2_220301\Project Outputs for jz_control0301\Pick Place for jz_control0301.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03-03-22
+Time:       15:55
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P18","Header 3","TopLayer","HDR1X3","51.9430","4.5720","270","Header, 3-Pin"
+"P17","Header 3","TopLayer","HDR1X3","55.0164","4.5974","270","Header, 3-Pin"
+"P16","Header 3","TopLayer","HDR1X3","58.1152","4.5466","270","Header, 3-Pin"
+"P10","Header 4","TopLayer","HDR1X4","27.5082","65.2018","360","Header, 4-Pin"
+"P9","Header 5","TopLayer","HDR1X5","11.9888","65.2018","180","Header, 5-Pin"
+"P12","Header 4","TopLayer","HDR1X4","41.5290","65.2018","360","Header, 4-Pin"
+"P7","Header 4","TopLayer","HDR1X4","55.7784","65.2018","360","Header, 4-Pin"
+"P5","Header 2","TopLayer","XH2.54-2","20.1943","4.4450","0","Header, 2-Pin"
+"R3","3.3K","TopLayer","LC-0805_R","38.5572","48.3362","360","Resistor"
+"R2","3.3K","TopLayer","LC-0805_R","38.5572","44.5770","360","Resistor"
+"R1","3.3K","TopLayer","LC-0805_R","38.5572","41.1480","360","Resistor"
+"P11","Header 4X2","TopLayer","HDR2X4","8.9916","38.7096","270","Header, 4-Pin, Dual row"
+"P19","Header 2","TopLayer","XH2.54-2","51.9684","49.1249","90","Header, 2-Pin"
+"P20","Header 3","TopLayer","XH2.54-3","41.5544","4.3180","360","Header, 3-Pin"
+"P15","Header 2","TopLayer","XH2.54-2","51.9684","39.5237","90","Header, 2-Pin"
+"P14","Header 2","TopLayer","XH2.54-2","51.9684","30.3543","90","Header, 2-Pin"
+"U1","LM324AD","TopLayer","SO-14","38.5826","26.6446","360","Quadruple Operational Amplifier"
+"RP3","10K","TopLayer","VR5","8.6614","16.1544","180",""
+"RP2","10K","TopLayer","VR5","8.6614","9.7917","180",""
+"RP1","10K","TopLayer","VR5","8.6614","3.4290","180",""
+"P13","Header 3","TopLayer","XH2.54-LI-3P","3.8354","56.1086","270","Header, 3-Pin"
+"P6","Header 5","TopLayer","XH2.54-LI-5P","11.4554","53.6194","270","Header, 5-Pin"
+"P4","Header 3","TopLayer","XH2.54-3","30.4546","4.3180","360","Header, 3-Pin"
+"P3","Header 18X2","TopLayer","HDR2X18","58.7502","33.7312","270","Header, 18-Pin, Dual row"
+"P2","Header 18X2","TopLayer","HDR2X18","38.4302","59.1312","360","Header, 18-Pin, Dual row"
+"P8","Header 4X2","TopLayer","HDR2X4","8.9916","25.4508","270","Header, 4-Pin, Dual row"
+"P1","Header 18X2","TopLayer","HDR2X18","18.1102","33.7312","90","Header, 18-Pin, Dual row"
+"D3","Diode  Zener","TopLayer","LC-1206","50.0466","13.2842","360","Zener Diode"
+"D2","Diode  Zener","TopLayer","LC-1206","41.4825","13.2842","360","Zener Diode"
+"D1","Diode  Zener","TopLayer","LC-1206","32.9184","13.2842","360","Zener Diode"
+"CR3","150","TopLayer","LC-0805_R","44.4246","24.3472","90","Resistor"
+"CR2","150","TopLayer","LC-0805_R","32.0802","23.8760","90","Resistor"
+"CR1","150","TopLayer","LC-0805_R","32.0802","29.6164","270","Resistor"
+"CC3","105","TopLayer","LC-0805_C","50.1396","17.0180","360","Polarized Capacitor (Radial)"
+"CC2","105","TopLayer","LC-0805_C","41.5417","17.0180","360","Polarized Capacitor (Radial)"
+"CC1","105","TopLayer","LC-0805_C","32.9438","17.0180","360","Polarized Capacitor (Radial)"
+"C1","104","TopLayer","LC-0805_C","38.5572","34.6202","360","1.02.08.0014"

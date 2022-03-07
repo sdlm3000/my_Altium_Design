@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=DV5 Pin=P1-20
+Added Pin To Net: NetName=DV5 Pin=P1-22
+Added Pin To Net: NetName=DV5 Pin=P1-24
+Added Pin To Net: NetName=VDD3.3 Pin=P4-24
+Added Pin To Net: NetName=VDD3.3 Pin=P4-26
+Added Pin To Net: NetName=VDD3.3 Pin=P4-28
+Added Pin To Net: NetName=VDD3.3 Pin=P4-30
+Added Pin To Net: NetName=VDD3.3 Pin=P4-32
+Added Pin To Net: NetName=VDD3.3 Pin=P4-34
+Added Room: Name=假肢工作电路

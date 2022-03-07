@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=POWERA Pin=P1-35
+Removed Pin From Net: NetName=POWERA Pin=P1-36
+Added Pin To Net: NetName=GND Pin=P1-27
+Added Pin To Net: NetName=GND Pin=P1-28
+Added Pin To Net: NetName=POWERA Pin=P3-3
+Added Pin To Net: NetName=POWERA Pin=P3-4
+Added Room: Name=假肢工作电路

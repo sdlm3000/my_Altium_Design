@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X5 New Footprint=XH2.54-LI-5P
+Added Member To Class: ClassName=假肢驱动电路 Member=Component C8 0.1uF
+Added Member To Class: ClassName=假肢驱动电路 Member=Component U7 TLP155
+Added Room: Name=假肢驱动电路

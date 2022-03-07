@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=V1 Old Footprint=LED 0603R New Footprint=LED 0603G
+Change Component Footprint: Designator=V2 Old Footprint=LED 0603R New Footprint=LED 0603G
+Added Member To Class: ClassName=假肢驱动电路 Member=Component C2 10uF,16V
+Added Room: Name=假肢驱动电路

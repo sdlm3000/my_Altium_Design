@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=POWERA Pin=Valve2-0
+Removed Pin From Net: NetName=NetD11_1 Pin=Valve2-1
+Change Component Footprint: Designator=Valve2 Old Footprint=DUANZI2P New Footprint=KF2EDGK5.0-LI-2P
+Added Pin To Net: NetName=POWERA Pin=Valve2-1
+Added Pin To Net: NetName=NetD11_1 Pin=Valve2-2
+Added Room: Name=¼ÙÖ«Çý¶¯µçÂ·

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetMotor1_1 Pin=Motor1-0
+Added Pin To Net: NetName=NetMotor1_1 Pin=U4-4
+Added Pin To Net: NetName=NetMotor1_1 Pin=U4-8
+Added Net: Name=NetMotor1_1
+Added Room: Name=假肢工作电路

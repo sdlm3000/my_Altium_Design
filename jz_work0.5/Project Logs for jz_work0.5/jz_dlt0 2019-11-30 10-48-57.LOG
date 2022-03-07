@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=CC4-1
+Removed Pin From Net: NetName=GND Pin=CR4-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=VDD3.3 Pin=P13-2
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=RP4-1
+Removed Member From Class: ClassName=假肢工作电路 Member=CC4
+Removed Member From Class: ClassName=假肢工作电路 Member=CR4
+Removed Member From Class: ClassName=假肢工作电路 Member=D4
+Removed Member From Class: ClassName=假肢工作电路 Member=P13
+Removed Member From Class: ClassName=假肢工作电路 Member=P15
+Removed Member From Class: ClassName=假肢工作电路 Member=R26
+Removed Member From Class: ClassName=假肢工作电路 Member=RP4
+Change Component Footprint: Designator=P5 Old Footprint=XH2.54-4 New Footprint=XH2.54-3
+Change Component Comment : Designator=P5 Old Comment=Header 4 New Comment=Header 3
+Change Component Designator: OldDesignator=P11 NewDesignator=P12
+Change Component Designator: OldDesignator=P12 NewDesignator=P11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_13 Pin=U1-14
+Added Net: Name=NetU1_13
+Added Room: Name=假肢工作电路

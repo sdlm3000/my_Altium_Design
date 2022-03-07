@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VDD3.3 Pin=R7-2
+Removed Pin From Net: NetName=VDD3.3 Pin=R11-2
+Removed Pin From Net: NetName=VDD3.3 Pin=R21-2
+Removed Pin From Net: NetName=VDD3.3 Pin=R25-2
+Added Pin To Net: NetName=VDD5.0 Pin=R7-2
+Added Pin To Net: NetName=VDD5.0 Pin=R11-2
+Added Pin To Net: NetName=VDD5.0 Pin=R21-2
+Added Pin To Net: NetName=VDD5.0 Pin=R25-2
+Added Room: Name=¼ÙÖ«Çý¶¯µçÂ·

@@ -1,0 +1,77 @@
+Removed Member From Class: ClassName=假肢驱动电路 Member=C12
+Removed Member From Class: ClassName=假肢驱动电路 Member=U10
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C3
+Change Component Designator: OldDesignator=C7 NewDesignator=C1
+Change Component Designator: OldDesignator=C8 NewDesignator=C4
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C12 NewDesignator=C8
+Change Component Designator: OldDesignator=CR9 NewDesignator=CR3
+Change Component Designator: OldDesignator=CR10 NewDesignator=CR4
+Change Component Designator: OldDesignator=CR11 NewDesignator=CR5
+Change Component Designator: OldDesignator=CR12 NewDesignator=CR6
+Change Component Designator: OldDesignator=D9 NewDesignator=D2
+Change Component Designator: OldDesignator=D10 NewDesignator=D1
+Change Component Designator: OldDesignator=D11 NewDesignator=D3
+Change Component Designator: OldDesignator=D12 NewDesignator=D4
+Change Component Designator: OldDesignator=D13 NewDesignator=D5
+Change Component Designator: OldDesignator=R1 NewDesignator=R9
+Change Component Designator: OldDesignator=R3 NewDesignator=R11
+Change Component Designator: OldDesignator=R5 NewDesignator=R14
+Change Component Designator: OldDesignator=R6 NewDesignator=R15
+Change Component Designator: OldDesignator=R7 NewDesignator=R1
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=R9 NewDesignator=R3
+Change Component Designator: OldDesignator=R10 NewDesignator=R4
+Change Component Designator: OldDesignator=R11 NewDesignator=R5
+Change Component Designator: OldDesignator=R12 NewDesignator=R6
+Change Component Designator: OldDesignator=R13 NewDesignator=R7
+Change Component Designator: OldDesignator=R14 NewDesignator=R8
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Change Component Designator: OldDesignator=U6 NewDesignator=U1
+Change Component Designator: OldDesignator=U7 NewDesignator=U3
+Change Component Designator: OldDesignator=U8 NewDesignator=U6
+Change Component Designator: OldDesignator=U10 NewDesignator=U7
+Change Component Designator: OldDesignator=V1 NewDesignator=V3
+Change Component Designator: OldDesignator=V2 NewDesignator=V4
+Change Component Designator: OldDesignator=V3 NewDesignator=V5
+Change Component Designator: OldDesignator=V4 NewDesignator=V6
+Change Component Designator: OldDesignator=V5 NewDesignator=V1
+Change Component Designator: OldDesignator=V6 NewDesignator=V2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetCR9_2 New Net Name=NetCR3_2
+Change Net Name : Old Net Name=NetCR10_2 New Net Name=NetCR4_2
+Change Net Name : Old Net Name=NetCR11_2 New Net Name=NetCR5_2
+Change Net Name : Old Net Name=NetCR12_2 New Net Name=NetCR6_2
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD12_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR21_1
+Added Pin To Net: NetName=NetR10_2 Pin=U4-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U5-2
+Added Net: Name=NetR11_2
+Added Member To Class: ClassName=假肢驱动电路 Member=Component C5 0.1uF
+Added Member To Class: ClassName=假肢驱动电路 Member=Component R14 3.3K
+Added Member To Class: ClassName=假肢驱动电路 Member=Component U5 BTS7960
+Added Room: Name=假肢驱动电路

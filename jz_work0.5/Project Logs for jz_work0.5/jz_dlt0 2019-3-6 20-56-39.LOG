@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD3.3 Pin=P10-1
+Removed Pin From Net: NetName=GND Pin=P10-4
+Removed Member From Class: ClassName=假肢工作电路 Member=P10
+Added Room: Name=假肢工作电路

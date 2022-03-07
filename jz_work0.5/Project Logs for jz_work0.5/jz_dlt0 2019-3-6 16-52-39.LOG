@@ -1,0 +1,17 @@
+Change Net Name : Old Net Name=GPIO_50 New Net Name=GPIO_80
+Change Net Name : Old Net Name=GPIO_51 New Net Name=GPIO_81
+Change Net Name : Old Net Name=GPIO_52 New Net Name=GPIO_82
+Change Net Name : Old Net Name=GPIO_53 New Net Name=GPIO_83
+Added Pin To Net: NetName=GPIO80 Pin=P3-9
+Added Pin To Net: NetName=GPIO80 Pin=P6-7
+Added Net: Name=GPIO80
+Added Pin To Net: NetName=GPIO81 Pin=P3-8
+Added Pin To Net: NetName=GPIO81 Pin=P6-5
+Added Net: Name=GPIO81
+Added Pin To Net: NetName=GPIO82 Pin=P3-7
+Added Pin To Net: NetName=GPIO82 Pin=P6-3
+Added Net: Name=GPIO82
+Added Pin To Net: NetName=GPIO83 Pin=P3-6
+Added Pin To Net: NetName=GPIO83 Pin=P6-1
+Added Net: Name=GPIO83
+Added Room: Name=假肢工作电路

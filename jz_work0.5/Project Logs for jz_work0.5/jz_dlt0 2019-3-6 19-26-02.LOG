@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DV5 Pin=S1-3
+Removed Pin From Net: NetName=NetC6_1 Pin=S1-5
+Removed Pin From Net: NetName=DV5 Pin=S1-6
+Added Pin To Net: NetName=DV5 Pin=S1-2
+Added Pin To Net: NetName=DV5 Pin=S1-4
+Added Pin To Net: NetName=NetC6_1 Pin=S1-4
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Pin To Net: NetName=NetU4_4 Pin=U4-8
+Added Net: Name=NetU4_4
+Added Room: Name=假肢工作电路

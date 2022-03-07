@@ -1,0 +1,4 @@
+Change Component Comment : Designator=RP1 Old Comment=Res Tap New Comment=10K
+Change component parameters: Designator = "RP1"; Footprint = "VR5"; UniqueID = "\CKCIEOLM"
+Change component parameters. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetRP1_2 New Net Name=NetRP1_3

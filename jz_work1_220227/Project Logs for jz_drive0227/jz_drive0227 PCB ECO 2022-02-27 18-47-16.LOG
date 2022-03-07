@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetMotor1_1 Pin=Motor1-0
+Removed Pin From Net: NetName=GND Pin=Motor1-1
+Removed Pin From Net: NetName=POWERA Pin=POWER1-0
+Removed Pin From Net: NetName=GND Pin=POWER1-1
+Removed Pin From Net: NetName=POWERA Pin=Valve3-0
+Removed Pin From Net: NetName=NetD12_1 Pin=Valve3-1
+Removed Pin From Net: NetName=POWERA Pin=Valve4-0
+Removed Pin From Net: NetName=NetD13_1 Pin=Valve4-1
+Change Component Footprint: Designator=Motor1 Old Footprint=DUANZI2P New Footprint=KF2EDGK5.0-LI-2P
+Change Component Footprint: Designator=POWER1 Old Footprint=DUANZI2P New Footprint=KF2EDGK5.0-LI-2P
+Change Component Footprint: Designator=Valve3 Old Footprint=DUANZI2P New Footprint=KF2EDGK5.0-LI-2P
+Change Component Footprint: Designator=Valve4 Old Footprint=DUANZI2P New Footprint=KF2EDGK5.0-LI-2P
+Change Component Footprint: Designator=Valve1 Old Footprint=KF2EDGK5.0-WI-2P New Footprint=KF2EDGK5.0-LI-2P
+Added Pin To Net: NetName=NetMotor1_1 Pin=Motor1-1
+Added Pin To Net: NetName=GND Pin=Motor1-2
+Added Pin To Net: NetName=POWERA Pin=POWER1-1
+Added Pin To Net: NetName=GND Pin=POWER1-2
+Added Pin To Net: NetName=POWERA Pin=Valve3-1
+Added Pin To Net: NetName=NetD12_1 Pin=Valve3-2
+Added Pin To Net: NetName=POWERA Pin=Valve4-1
+Added Pin To Net: NetName=NetD13_1 Pin=Valve4-2
+Added Room: Name=¼ÙÖ«Çý¶¯µçÂ·

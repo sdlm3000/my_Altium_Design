@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=DV5 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=A7 Pin=RP7-2
+Removed Pin From Net: NetName=A8 Pin=RP8-2
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=DV5 Pin=U9-3
+Removed Pin From Net: NetName=VDD3.3 Pin=U9-5
+Removed Pin From Net: NetName=GND Pin=U9-8
+Removed Member From Class: ClassName=假肢工作电路 Member=C10
+Removed Member From Class: ClassName=假肢工作电路 Member=C13
+Removed Member From Class: ClassName=假肢工作电路 Member=C14
+Removed Member From Class: ClassName=假肢工作电路 Member=J1
+Removed Member From Class: ClassName=假肢工作电路 Member=P8
+Removed Member From Class: ClassName=假肢工作电路 Member=R19
+Removed Member From Class: ClassName=假肢工作电路 Member=U9
+Change Component Comment : Designator=RP2 Old Comment=Res Tap New Comment=10K
+Change Component Comment : Designator=RP3 Old Comment=Res Tap New Comment=10K
+Change Component Comment : Designator=RP4 Old Comment=Res Tap New Comment=10K
+Change Component Comment : Designator=RP5 Old Comment=Res Tap New Comment=10K
+Change Component Comment : Designator=RP6 Old Comment=Res Tap New Comment=10K
+Change Component Comment : Designator=RP7 Old Comment=Res Tap New Comment=10K
+Change Component Comment : Designator=RP8 Old Comment=Res Tap New Comment=10K
+Change Component Comment : Designator=RP9 Old Comment=Res Tap New Comment=10K
+Change component parameters: Designator = "RP2"; Footprint = "VR5"; UniqueID = "\KHMHEPJR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "RP3"; Footprint = "VR5"; UniqueID = "\YUMYSFOP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "RP4"; Footprint = "VR5"; UniqueID = "\OKXQFREM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "RP5"; Footprint = "VR5"; UniqueID = "\RFPXTWYS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "RP6"; Footprint = "VR5"; UniqueID = "\FRFWBQDJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "RP7"; Footprint = "VR5"; UniqueID = "\DHPEDYLU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "RP8"; Footprint = "VR5"; UniqueID = "\GKPUSMWJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "RP9"; Footprint = "VR5"; UniqueID = "\DNPTKADR"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=A8 Pin=RP7-2
+Added Pin To Net: NetName=A7 Pin=RP8-2
+Change Net Name : Old Net Name=NetRP2_2 New Net Name=NetRP2_3
+Change Net Name : Old Net Name=NetRP3_2 New Net Name=NetRP3_3
+Change Net Name : Old Net Name=NetRP4_2 New Net Name=NetRP4_3
+Change Net Name : Old Net Name=NetRP5_2 New Net Name=NetRP5_3
+Change Net Name : Old Net Name=NetRP6_2 New Net Name=NetRP6_3
+Added Pin To Net: NetName=NetRP7_3 Pin=RP7-3
+Added Pin To Net: NetName=NetRP7_3 Pin=U2-13
+Added Pin To Net: NetName=NetRP7_3 Pin=U2-14
+Added Net: Name=NetRP7_3
+Added Pin To Net: NetName=NetRP8_3 Pin=RP8-3
+Added Pin To Net: NetName=NetRP8_3 Pin=U2-8
+Added Pin To Net: NetName=NetRP8_3 Pin=U2-9
+Added Net: Name=NetRP8_3
+Added Room: Name=假肢工作电路

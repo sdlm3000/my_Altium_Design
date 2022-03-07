@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=DV5 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=P9-1
+Removed Pin From Net: NetName=DV5 Pin=P9-2
+Removed Pin From Net: NetName=GND Pin=P9-5
+Removed Pin From Net: NetName=DV5 Pin=P9-15
+Removed Pin From Net: NetName=GND Pin=P9-16
+Removed Pin From Net: NetName=DV5 Pin=RP9-1
+Removed Pin From Net: NetName=GND Pin=RP9-3
+Removed Member From Class: ClassName=假肢工作电路 Member=C11
+Removed Member From Class: ClassName=假肢工作电路 Member=P9
+Removed Member From Class: ClassName=假肢工作电路 Member=RP9
+Change Component Footprint: Designator=D9 Old Footprint=LC-SMA(DO-214AC)_S2 New Footprint=LC-1206
+Added Room: Name=假肢工作电路

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=SMD-EC-F10
+Change Component Footprint: Designator=C6 Old Footprint=CAPPR2-5X5 New Footprint=SMD-EC-F8
+Change Component Footprint: Designator=C5 Old Footprint=CAPPR2-5X5 New Footprint=SMD-EC-F10
+Change Component Footprint: Designator=D9 Old Footprint=LC-1206 New Footprint=LC-SMA(DO-214AC)_S2
+Added Room: Name=假肢工作电路

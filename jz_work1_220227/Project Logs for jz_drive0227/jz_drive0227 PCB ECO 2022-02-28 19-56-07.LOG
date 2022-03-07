@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DV5 Pin=P2-2
+Removed Pin From Net: NetName=DV5 Pin=R2-1
+Added Pin To Net: NetName=VDD5.0 Pin=P2-2
+Added Pin To Net: NetName=VDD5.0 Pin=R2-1
+Added Net: Name=VDD5.0
+Added Room: Name=¼ÙÖ«Çý¶¯µçÂ·
