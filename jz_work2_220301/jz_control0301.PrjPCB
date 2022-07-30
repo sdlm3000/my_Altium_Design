@@ -79,6 +79,10 @@ DItemRevisionGUID=
 Path=..\ad_lib\*.*
 IncludeSubFolders=1
 
+[SearchPath2]
+Path=..\..\ad_lib\*.*
+IncludeSubFolders=1
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -198,7 +202,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=联创打印管理系统
+TargetPrinter=HP LaserJet Pro MFP M125-M126 PCLmS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
